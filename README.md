@@ -34,8 +34,8 @@ I'm also adding an array of UV leds as they help at the growing of the majority 
 
 Pictures: 
 
-![100W Led](Media/100W white led.jpeg "100W Led with a constant current led driver")
-![UV Led](Media/UV Leds.jpeg "UV leds connected to DIY low power driver")
+![100W Led](Media/100W_white_led.jpeg "100W Led with a constant current led driver")
+![UV Led](Media/UV_Leds.jpeg "UV leds connected to DIY low power driver")
 ----------
 
 Configuration
